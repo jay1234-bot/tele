@@ -75,7 +75,7 @@ admin_34 : "❌➻ Failed to seek the current stream."
 
 # Start
 start_1 : "Hey, I am {0} 🥀.\n\n➻ I'm a Telegram streaming bot with some useful features.\n\nSupporting platforms: YouTube, Spotify, SoundCloud etc.\n\nFeel free to add me to your groups."
-start_2 : "Hey,\n this is {0}\n\nA fast and powerful music player bot with some awesome features.\n\nAssistant username: @{1}\nAssistant ID: {2}"
+start_2 : "<blockquote><b>🍷ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ {0}🍷</b></blockquote>\n\n<blockquote>🌹ɪ ᴀᴍ ᴀɴ 📀 ᴀᴅᴠᴀɴᴄᴇᴅ 🎭 ᴀɴᴅ 🌱 sᴜᴘᴇʀғᴀsᴛ 🌼 ᴠᴄ 🍄 ᴘʟᴀʏᴇʀ 📣 ᴡɪᴛʜ 🕙 24x7 🌀 ᴀᴄᴛɪᴠᴇ » ғᴏʀ 🗨️ ᴛᴇʟᴇɢʀᴀᴍ ♨️ ᴄʜᴀɴɴᴇʟ 🎸 ᴀɴᴅ 🏓 ɢʀᴏᴜᴘs 🎻</blockquote>\n<blockquote>💐ғᴇᴇʟ 😍 ʟᴀɢ 📍 ғʀᴇᴇ 😇 ᴛᴏ 🕊️ <b>ᴀᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ</b> 🤖 ᴀɴᴅ 🩸 ᴇɴᴊᴏʏ ❥︎ sᴜᴘᴇʀ 💥 ʜɪɢʜ 💫 ǫᴜᴀʟɪᴛʏ 🦞 ᴀᴜᴅɪᴏ 🎧 ᴀɴᴅ 🔊 ᴠɪᴅᴇᴏ 🌷</blockquote>\n\n<blockquote><b>ㅤㅤﾠ🎧 ​🇹​-​🇸​​🇪​​🇷​​🇮​​🇪​​🇸​ ​🇲​​🇺​​🇸​​🇮​​🇨​ 🎧</b>\n>━━━━━━━━━━━━━━━━━━━<\nㅤ  ㅤ⇆ㅤ◁ㅤ ❚❚ ㅤ▷ ↻﻿  ☆</blockquote>\n\n<blockquote>📡 ᴍᴀᴅᴇ ʙʏ ➪ <b><a href='https://t.me/@CENSORED_POLITICSS'>⏤͟͟͞͞‌ٖٖٖ🥀➣ 𝗠𝗿❤︎𝗞𝗿𝗶𝘀𝗵𝗮𝗻 ➻ >•⏤͟͟͞͞‌ٖٖٖ</a></b> 💞</blockquote>"
 start_3 : "The owner of {0}, {1} just joined your chat."
 start_4 : "The sudo user of {0}, {1} just joined your chat."
 start_5 : "🦸 **Supergroup needed** 🦸\n\nPlease convert your **group** to **supergroup** and then add me back.\n\n**How to make supergroup?**\n🥱 Make your group's chat history **visible** once."
@@ -141,7 +141,7 @@ cplay_5: "🚫 Only channels are supported."
 cplay_6: "🔑 You need to be the **owner** of the channel [{0}] to connect it with this group.\n**Channel's owner:** @{1}\n\nAlternatively, you can link your group to that channel and then try connecting with `/channelplay linked`."
 
 # Play Messages
-play_1: "🔄 **Processing...**"
+play_1: "**💫 𝐏ɤσƈɛssɩŋʛ...❤️**"
 play_2: "📺 **Channel play mode**\nProcessing query... please wait!\n\n**Linked channel:** {0}"
 play_3: "❌ Failed to process query!"
 play_4: "🔒 **Admins only play**\nOnly admins and auth users can play music in this group.\n\nChange mode via /playmode and if you're already admin, reload admincache via /admincache or /reload."
@@ -238,11 +238,11 @@ song_11: "📤 Uploading started\nPlease hold on..."
 queue_1: "⏳ » Please wait..."
 queue_2: "🚫 Queued List is empty. No tracks found."
 queue_3: "<u>**Queued Tracks:</u>**  [Checkout More Queued Tracks From Here]({0})"
-queue_4: "**💫 Added to queue at #{0}**\n\n**🥀Title:** {1}\n**⏱ Duration:** {2}\n**🥀Added by:** {3} ❄️"
+queue_4: "<blockquote>**💫 ᴀᴅᴅᴇᴅ ᴛᴏ ǫᴜᴇᴜᴇ ᴀᴛ #{0}**\n\n**🥀ᴛɪᴛʟᴇ :** {1}\n**⏱ ᴅᴜʀᴀᴛɪᴏɴ :** {2}\n **🥀ᴀᴅᴅᴇᴅ ʙʏ :** {3} ❄️</blockquote>"
 queue_5: "🚫 Only one track is in queue; add some more tracks in the queue to check the whole queue."
 
 # All Streaming Lines
-stream_1: "**✮ Started Streaming**\n\n**✯ Title:** [{0}]({1})\n**✬ Duration:** {2} minutes\n**✭ By:** {3}"
+stream_1: "<blockquote>➲ <b>Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ |</b></blockquote>\n\n<b><blockquote>‣ Tɪᴛʟᴇ [{0}]({1})\n<b>‣ Dᴜʀᴀᴛɪᴏɴ :</b> {2} ᴍɪɴᴜᴛᴇs\n<b>‣ Rᴇǫᴜᴇsᴛᴇᴅ ʙʏ :</b> {3}</blockquote>\n\n<blockquote><b>ᴘᴏᴡᴇʀᴇᴅ ʙʏ: [ᴋʀɪꜱʜᴀɴ](https://t.me/CENSORED_POLITICSS)</b></blockquote>"
 stream_2: "➲ **Started Streaming |**\n\n**‣ Stream type:** live stream [url]\n**‣ By:** {0}"
 
 V_C_1: "🔄 Fetching participants list...."
